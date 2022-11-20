@@ -1,0 +1,9 @@
+﻿  company.cpp
+D:\ПИ-11\3_семестр\Программирование\Lab4_C++\company.cpp(76,31): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  devices.cpp
+  lab 2.cpp
+  laptop.cpp
+  product.cpp
+  smartphone.cpp
+  Создание кода...
+  lab 2.vcxproj -> D:\ПИ-11\3_семестр\Программирование\Lab4_C++\Debug\lab 2.exe
